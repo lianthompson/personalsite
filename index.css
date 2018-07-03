@@ -7,3 +7,9 @@
   height: 600px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
+
+
+.jumbotron > h1 {
+    font-family: 'Montserrat', sans-serif, Extra-Light;
+
+}
